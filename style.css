@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    color: coral;
+    font-size: 24px;
+    font-weight: lighter;
+  }
+  
+  .nav-links {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: flex; 
+  }
+  
+  .nav-links a {
+    display: block;
+    color: white;
+    text-decoration: none; /* Removes underline */
+    padding: 14px 20px;
+    transition: background-color 1.3s;
+  }
+  
+  .nav-links a:hover {
+    background-color: #575757;
+  }
+  
+  /* Highlight the active page TO NOT GET LOST*/
+  .nav-links a.active {
+    background-color: #04AA6D;
+  }
+  
+  form.form-baw {
+    display: table;
+}
+div.form-baw {
+    display: table-row;
+}
+label,
+input {
+    display: table-cell;
+    margin-bottom: auto;
+}
+label {
+    padding-right: 10px;
+}

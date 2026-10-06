@@ -36,3 +36,6 @@ BAW_comp_101
 
   - **HTML5 and CSS3** structure and styling
   - **JAVASCRIPT** for the requiring script 
+
+[NOTE]
+hour's spent/lost on that file 3h
