@@ -20,9 +20,19 @@ BAW_comp_101
 ├── Style.css
 ├── /Image/
 │   └── Image1
-│   └── Image2 
+│   └── Image2
+│   └── Image404
 ├── /src/
 │   └── script.js                 # webpage for the 3rd lab
+├── 404.html
 └── README.md
 ```
 
+## Technology Stack 
+### BACKEND
+  -  NONE AS I DONT'T HAVE ANY THING IN THE BG EXCEPT A SCRIPT.JS
+
+### FRONTEND
+
+  - **HTML5 and CSS3** structure and styling
+  - **JAVASCRIPT** for the requiring script 
