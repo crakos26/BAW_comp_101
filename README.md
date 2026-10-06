@@ -21,7 +21,7 @@ BAW_comp_101
 ├── /Image/
 │   └── Image1
 │   └── Image2
-│   └── Image404
+│   └── Image404.jpg
 ├── /src/
 │   └── script.js                 # webpage for the 3rd lab
 ├── 404.html
