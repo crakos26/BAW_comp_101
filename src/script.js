@@ -1,5 +1,5 @@
 let secretSequence = "";
-const secretCode = "fish";
+const secretCode = "yes";
 
 document.addEventListener("keydown", (event) => {
   if (event.key.length !== 1 || event.ctrlKey || event.altKey || event.metaKey) {
