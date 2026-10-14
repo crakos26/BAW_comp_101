@@ -9,6 +9,6 @@ document.addEventListener("keydown", (event) => {
   secretSequence = (secretSequence + event.key.toLowerCase()).slice(-secretCode.length);
 
   if (secretSequence === secretCode) {
-    window.location.href = "/form.html";
+    window.location.href = "form.html";
   }
 });
